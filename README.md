@@ -15,13 +15,13 @@
 ## 📊 My Coding Journey
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=krishn-cc&theme=radical" alt="Profile Summary" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=krishn-cc&theme=radical&cache_seconds=300" alt="Profile Summary" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishn-cc&layout=donut&theme=radical&hide_border=true&bg_color=0d1117&title_color=8A2BE2&text_color=c9d1d9&langs_count=6" alt="Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishn-cc&layout=donut&theme=radical&hide_border=true&bg_color=0d1117&title_color=8A2BE2&text_color=c9d1d9&langs_count=6&cache_seconds=300" alt="Most Used Languages" />
 </div>
 
 <br>
