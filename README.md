@@ -116,6 +116,13 @@ const dwarkesh = {
 
 <br>
 
+<div align="center">
+  <h3>🐍 Contribution Snake</h3>
+  <img src="https://raw.githubusercontent.com/krishn-cc/krishn-cc/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
+
+<br>
+
 
 
 ## 🤝 Let's Connect
