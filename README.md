@@ -73,9 +73,13 @@
 
 <!-- Arcade Learn -->
 <a href="https://github.com/VickyKumarOfficial/Arcade-Learn">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=VickyKumarOfficial&repo=Arcade-Learn&theme=radical&hide_border=true&bg_color=0d1117&title_color=8A2BE2&icon_color=FF6B6B&text_color=c9d1d9" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=VickyKumarOfficial&repo=Arcade-Learn&theme=radical&hide_border=true&bg_color=0d1117&title_color=8A2BE2&icon_color=FF6B6B&text_color=c9d1d9&description_lines_count=3" />
 </a>
 
+</div>
+
+<div align="center" style="margin-top: 10px;">
+  <p><em>🎓 <strong>Arcade Learn:</strong> An EdTech personalized platform helping users land their dream jobs based on skillsets learned with AI-powered recommendation systems.</em></p>
 </div>
 
 <div align="center">
