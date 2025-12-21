@@ -80,10 +80,19 @@
 
 <div align="center">
 
+<!-- Mentisphere -->
+<a href="https://github.com/krishn-cc/RedHat-MentiSphere">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=krishn-cc&repo=RedHat-MentiSphere&theme=radical&hide_border=true&bg_color=0d1117&title_color=8A2BE2&icon_color=FF6B6B&text_color=c9d1d9" />
+</a>
+
 <!-- QRaven -->
 <a href="https://github.com/krishn-org/qraven">
   <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=krishn-org&repo=qraven&theme=radical&hide_border=true&bg_color=0d1117&title_color=8A2BE2&icon_color=FF6B6B&text_color=c9d1d9" />
 </a>
+
+</div>
+
+<div align="center">
 
 <!-- Portfolio Website -->
 <a href="https://github.com/krishn-cc/My-portfolio-website">
@@ -141,7 +150,9 @@ const dwarkesh = {
 
 <br>
 
-<br>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=krishn-cc&label=Profile%20Views&color=8A2BE2&style=for-the-badge" alt="Profile Views" />
+</div>
 
 <br>
 
